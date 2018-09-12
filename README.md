@@ -1,1 +1,2 @@
 # ojt
+My first git.
